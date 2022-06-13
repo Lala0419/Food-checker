@@ -25,7 +25,7 @@ This is an API app that you can identify what ingredients are contained in the f
 
 ## How It's Made:
 
-I made this app because I am interested in a healthy lifestyle and thought it would be fun to make something related to food using API. I think is pretty cool how easy it s to make it possible just by using API.
+I made this app because I am interested in a healthy lifestyle and thought it would be fun to make something related to food using API. I think is pretty cool how easy it s to make it possible just by using an API.
 ## Tech Used:
 HTML, CSS, JavaScript
 
@@ -33,7 +33,8 @@ HTML, CSS, JavaScript
 
 ## Lessons Learned:
 
-It was a very good practice of using WebAPIs. Learned how useful it is to use it but hard to find the right API and read the documents carefully to use it correctly.
+I learned how useful it is to use, but it was hard to find the right API. This project also taught me how important it is to read the documentation carefully!
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
