@@ -11,7 +11,7 @@
 
 Simple API app to find out the ingredients in the food. Perfect for those who are on certain diets!
 
-**Link to project:** https://food-checker-nm.netlify.app/
+**Link to project:** [Food Checker](https://food-checker-nm.netlify.app/)
 
 </div> 
 
